@@ -1,0 +1,118 @@
+{
+  "How many days do we have in a week?": {
+    "answers": ["seven", "7"],
+    "difficulty": 3,
+    "author": "Mister Twister",
+    "theme": "General questions"
+  },
+  "How many days are there in a normal year?": {
+    "answers": [
+      "365"
+    ],
+    "difficulty": 3,
+    "author": "Mister Twister",
+    "theme": "General questions"
+  },
+  "How many colors are there in a rainbow?": {
+    "answers": [
+      "seven",
+      "7"
+    ],
+    "difficulty": 3,
+    "author": "Mister Twister",
+    "theme": "Nature"
+  },
+  "Which animal is known as the ‘Ship of the Desert?’": {
+    "answers": ["camel"],
+    "difficulty": 3,
+    "author": "Mister Twister",
+    "theme": "Nature"
+  },
+  "How many letters are there in the English alphabet?": {
+    "answers": ["26"],
+    "difficulty": 3,
+    "author": "Mister Twister",
+    "theme": "Grammar"
+  },
+  "How many consonants are there in the English alphabet?": {
+    "answers": ["21"],
+    "difficulty": 3,
+    "author": "Mister Twister",
+    "theme": "Grammar"
+  },
+  "How many sides are there in a triangle?": {
+    "answers": ["three", "3"],
+    "difficulty": 3,
+    "author": "Mister Twister",
+    "theme": "Geometry"
+  },
+  "Which month of the year has the least number of days?": {
+    "answers": ["february"],
+    "difficulty": 3,
+    "author": "Mister Twister",
+    "theme": "General questions"
+  },
+  "Which animal is called King of Jungle?": {
+    "answers": ["lion"],
+    "difficulty": 3,
+    "author": "Mister Twister",
+    "theme": "Nature"
+  },
+  "In which direction does the sunrise?": {
+    "answers": ["east"],
+    "difficulty": 5,
+    "author": "Mister Twister",
+    "theme": "Nature"
+  },
+  "Which is the world’s largest flower?": {
+    "answers": ["rafflesia"],
+    "difficulty": 6,
+    "author": "Mister Twister",
+    "theme": "Nature"
+  },
+  "How many zeros are there in one hundred thousand?": {
+    "answers": [
+      "five",
+      "5"
+    ],
+    "difficulty": 4,
+    "author": "Mister Twister",
+    "theme": "Math"
+  },
+  "How many hours are there in two days?": {
+    "answers": ["48 hours", "48"],
+    "difficulty": 5,
+    "author": "Mister Twister",
+    "theme": "Math"
+  },
+  "How many months of the year have 31 days?": {
+    "answers": ["7", "seven"],
+    "difficulty": 5,
+    "author": "Mister Twister",
+    "theme": "General questions"
+  },
+  "How many weeks are there in one year?": {
+    "answers": ["52"],
+    "difficulty": 5,
+    "author": "Mister Twister",
+    "theme": "General questions"
+  },
+  "How many bones does an adult human have?": {
+    "answers": ["206"],
+    "difficulty": 5,
+    "author": "Mister Twister",
+    "theme": "Nature"
+  },
+  "Which continent is known as ‘Dark’ continent?": {
+    "answers": ["africa"],
+    "difficulty": 5,
+    "author": "Mister Twister",
+    "theme": "Geography"
+  },
+  "Which planet is known as the Red Planet?": {
+    "answers": ["mars"],
+    "difficulty": 5,
+    "author": "Mister Twister",
+    "theme": "Space"
+  }
+}
